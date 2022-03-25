@@ -6,7 +6,7 @@
 .pnp.js
 
 # Sanity
-mediumblog/node_modules
+mediumblog
 
 # testing
 /coverage
